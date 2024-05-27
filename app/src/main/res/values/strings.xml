@@ -1,0 +1,377 @@
+<resources>
+    <string name="app_name">project_2</string>
+    <string name="plant_plus">Plant Plus</string>
+    <string name="todo">flower</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="emailToast">You must enter email to register!</string>
+
+    <string name="Marigold">Marigold health benefits:
+Soothes skin and treats skin diseases
+Reduces inflammation
+Strong antibacterial and antiseptic properties
+Strengthens eyes</string>
+
+    <string name="Catnip">
+        Catnip is a fun plant for cats. Most cats are attracted to the plant and will roll around near it since its aroma acts as a stimulant.
+    </string>
+    <string name="Gingko">
+        gingko is one of the oldest homeopathic plants and a key herb in Chinese medicine. The leaves are used to create capsules, tablets, and extracts, and when dried, can be consumed as a tea.
+
+    </string>
+    <string name="Turmeric">
+       <b> Turmeric could be beneficial for:</b>
+pain caused by inflammatory diseases, like arthritis.
+preventing cancer.
+stopping DNA mutations.
+several skin diseases.
+    </string>
+
+    <string name="Moonflowers">
+Evening primrose flowers are also called moonflower because they bloom as the sun begins to set. People often say they smell like lemons.
+    </string>
+
+    <string name="privacypolicy">
+        <b>Privacy Policy of plant plus, Inc.</b>
+          \n\n
+       <p> Plant plus, Inc.(\"We\" or \"us\"or\"ours\" as applicable) takes great care in ensuring that any transmission of
+        your personal information remains private and is not disclosed in an unauthorized way. We respect the privacy
+        of every person who uses the mobile application, including related features, products and services (collectively
+        referred to as the \"Platform\") and we are committed to a safe online experience for our users. Although the platform
+        is not designed to collect material personal data, we feel that it is important to explain the information we collect,
+        what we do with it, and describe the rights you may have in relation to the data. We also respect the privacy of everyone
+        who uses the services we provide from the platform or deals with the platform or from us to use the services provided
+        (whether through the platform or not) (the \"service\" or \"services\") or whose personal information may be processed as a
+        result of the use of others. For services.</p>
+        \n
+        \n\n
+
+        <b>WHAT IS THE PURPOSE OF THIS PRIVACY POLICY\?</b>
+        \n\n
+
+        <p>This privacy statement (\"Privacy Policy\") explains our collection of any personal information that we may obtain about you
+        from you or a third party and the purposes for which we may process such information. This Privacy Policy also sets out your
+        rights in respect to our processing of your personal information. The purpose of this Privacy Policy is also to comport to applicable
+            data privacy laws and, if applicable, the \"DP Laws\" (as defined near the end of this Privacy Policy).</p>
+      \n
+        <p>This Privacy Policy informs you of the nature of the information that is collected and processed by us and how you can request that
+            we delete, update, transfers and/or provide you with access to it.</p>
+        \n
+
+        <p>This Privacy Policy is intended to help you make an informed decision when using the Platform and our Services and/or to understand
+        how your information may be processed by us as a result of your use of and the function of the Platform and Services. Please read
+        this Privacy Policy carefully so that you understand it. Please note that when using the Platform it should be read in conjunction
+            with our Terms of Service, as may be updated from time to time.</p>
+        \n
+
+        <p>Please also note that this Privacy Policy only applies to the use of your personal information obtained by us, it does NOT apply to
+            your personal information that is collected during your communications with third parties.</p>
+         \n
+        \n
+
+        <b>Who is the PLANT PLUS, INC. What do we do\?</b>
+         \n\n
+        <p>Plant plus, Inc. It is an application for a graduation project established in Jordan. We are the data controller responsible for
+            processing your personal information through the platform.</p>
+        \n \n
+
+        <b>HOW TO CONTACT US\?</b>
+                 \n\n
+        <p>If you have any questions about this Privacy Policy or want to take any action with respect to your personal information as set out
+            in this Privacy Policy, you must contact us by: </p>
+        \n
+        Sending an Email to: Project.herb2\@gmail.com
+        \n
+         \n
+        <b>WHY DO WE COLLECT YOUR DATA AND WHAT DO WE COLLECT\?</b>
+         \n \n
+        Our primary goal in collecting personal information from you is to:
+        \n
+            \t\t1) verify your identity.\n
+            \t\t2) help us deliver the Services and provide your ability to use the Platform actively.\n
+            \t\t3) improve, develop and market new Services.\n
+            \t\t4) carry out requests made by you on the Platform or in relation to our Services.\n
+            \t\t5) investigate or settle inquiries or disputes.\n
+            \t\t6) comply with any applicable law.\n
+            \t\t7) enforce our agreements with you.\n
+            \t\t8) protect the rights, property or safety of us or third parties, including our other customers, subscribers and users of the Platform
+            or our Services.\n
+            \t\t9) provide support for the provision of our Services.\n
+            \t\t10) use as otherwise permitted by law.\n
+                \n
+ \n
+        To undertake these goals, we may collect the following personal information related to our users:
+         \n
+            *Name \n
+            *E-mail address \n
+            *IP Address saved by our web server logs \n
+            *Third-party service vendor data, as collected by such third-party\'s at our request \n
+            *Other data collected using Google Analytics by Google, Inc. \n
+         \n
+
+        We may also collect information about your use of the Platform including: \n
+         \n
+            *Electronic communications protocols \n
+            *Web pages visited \n
+            *Cookies \n
+            *User preferences \n
+            * User privileges \n
+            *Other information relevant to provision of the Services \n
+            *Other information as may be requested by us from you in relation to provision of the Services \n
+            *Third-party monitoring related to web traffic \n
+            
+
+</string>
+    <string name="terms_conditions">
+        <b>Terms of Use</b>
+        \n
+        \n
+        Plant plus, Inc., its affiliate entities and any successor entity, (collectively, \"Provider\") maintains the PlantSnap mobile application,
+        including related features, products, and services (collectively, the \"Service\"). You should read these Terms of Use (this \"Agreement\")
+        carefully before using the Service. Access to and use of the Service is subject to the terms and conditions set forth below, and your
+        use of the Service constitutes your acceptance of this Agreement. If you do not agree to this Agreement, you should not use the Service.
+        Provider may revise this Agreement from time to time. Although Provider may include a notice on the home page of the Service that the
+        Agreement has been modified, such notice may not remain in place for any extended period of time. Accordingly, you should review the
+        Agreement as posted on the Service from time to time. Using the Service after any revised Agreement has been posted will constitute
+        your acceptance of the revised terms.
+         \n
+        \n
+        <b>1. Purpose of the Service</b>
+         \n
+        The PlantSnap Service helps you identify plants, flowers and trees through image recognition technology. We use photographs submitted
+        by you to provide the Service. You acknowledge that Provider disclaims any responsibility for, or liability related to, your use of
+        the Service (see \"Disclaimer of Warranties\" below). You may never rely on the Service to determine whether any plant, flower, tree
+        \or any other substance is safe to eat or otherwise consume and Provider hereby specifically disclaims any responsibility for, or
+        liability related to, your use of the Service for this purpose.
+        \n
+        \n
+        <b>2. Use of the Service</b>
+        \n
+        Use of the Service may be available through a compatible Internet browser or mobile device and may require network connections and
+        software. You agree that you are solely responsible for these requirements, including any applicable changes, updates and fees as well
+        as the terms of your agreement with your mobile device and telecommunications provider. You are only entitled to access and use the
+        Service for lawful purposes. You agree that Provider may use your feedback, suggestions, or ideas in any way, including in future
+        modifications of the Service, other products or services, advertising or marketing materials. You grant Provider a perpetual,
+        worldwide, fully-transferable, sub-licensable, irrevocable, fully paid-up, royalty-free license to use the feedback you provide
+        to Provider in any way. You further agree that you will not: (i) use any robot, spider, scraper, deep link or other similar automated
+        data gathering or extraction tools, program, algorithm or methodology to access, acquire, copy or monitor the Service or any portion
+        of the Service; (ii) post or transmit any file which contains viruses, worms, Trojan horses or any other contaminating or destructive
+        features, or that otherwise interfere with the proper working of Provider or the Service; or (iii) attempt to decipher, decompile,
+        disassemble, or reverse-engineer any of the software comprising or in any way making up a part of the Service.
+         \n
+        \n
+        <b>3. Lawful Use; Use by Minors</b>
+        \n
+        Your access to and use of the Service is subject to all applicable international, federal, state and local laws and regulations.
+        You represent and warrant that you will not use the Service in any manner or for any purposes that are unlawful or prohibited by this
+        Agreement. The Service is not targeted towards, nor intended for use by, anyone under the age of 18. By using the Service, you
+        represent and warrant that you are 18 years of age or older. If you are not at least 18 years of age, do not use, access, or
+        register for the Service. Provider reserves the right to terminate your membership in the event that Provider becomes aware you
+        are under 18.
+        \n
+        \n
+        <b>4. User Accounts</b>
+        \n
+        To post photographs and otherwise use the Service, you must first register by creating a User Account. You should take measures to maintain
+        and preserve the confidentiality of the username and password associated with your User Account, and you must notify Provider promptly
+        of any unauthorized use or suspected breach of security of your User Account. Provider shall not be liable for any losses that may
+        result from any unauthorized use of your User Account or failure to maintain appropriate confidentiality measures. You agree not to
+        disclose your password to any third party and to take sole responsibility for any activities or actions under your User Account,
+        whether or not you have authorized such activities or actions. Provider owns your User Account credentials and may revoke or change
+        them at any time.
+         \n
+        \n
+        <b>5. Rights you Grant to Provider</b>
+        \n
+        By submitting User Content to Provider through the Service, you grant a non-exclusive, sub-licenseable, perpetual, worldwide license
+        to any and all User Content to Provider and any affiliate and successor entities for the purpose of providing the Service, or any
+        similar services at Provider\'s, its affiliate\'s or successor\'s sole discretion. Provider may use and store the User Content, but only
+        to provide the Service to you or related to its license provided by you as stated above. By submitting this User Content to Provider,
+        you represent that you are entitled to submit it to Provider for use for this purpose, without any obligation by Provider to pay any
+        fees or other limitations.
+        \n \n
+
+        <b>6>. Intellectual Property Rights</b>
+        \n
+        Unless otherwise noted, all text, images, graphics, photographs, video clips, designs, icons, sounds, information, data, and other
+        materials appearing on the Service which are not User Content (the \"Provider Content\") and all methods, methodologies, procedures,
+        processes, know-how, software, algorithms, techniques, and other technology (the \"Technology\") displayed, used, or incorporated
+        on the Service by Provider are copyrights, trademarks, service marks, trade secrets, or other intellectual property or proprietary
+        content owned or licensed by Provider. You may use the available Provider Content and Technology only for your own personal use and
+        internal business purposes, but you may not reverse-engineer or decompile any of the Technology. You may print a copy of available
+        Provider Content solely for such purposes, but you may not remove any copyright, trademark or other notice displayed on the
+        corresponding webpage or print-out. You may not use the available Provider Content and Technology on behalf of any third party
+        or as part of a managed service. You may not distribute, publish, transmit, modify, create derivative works from, or in any way
+        exploit, any of the available Provider Content and Technology, in whole or in part, for any purpose without the express written
+        permission of Provider or the respective owner. Nothing in this Agreement shall be construed as granting any permission
+        (except as set forth in this paragraph), right, or license in any of the Provider Content or Technology. All intellectual property
+        rights are fully reserved by Provider and any third-party owners of those rights.
+        \n\n
+        <b>7. Use of \"Cookies\" and Similar Tools</b>
+        \n
+        You understand and agree that Provider may store information on your computer in the form of a \"cookie\" or similar tool for
+        purposes of improving the functionality of the Service.
+        \n\n
+        <b>8. Limitations on Liability</b>
+        \n
+        In no event shall Provider be liable to you or any other person or entity for any direct, indirect, incidental, special,
+        consequential, punitive, or other such damages, including but not limited to any damages associated with: (i) loss of goodwill,
+        profits, business interruption, or data, or other such losses; (ii) your inability to use the Service, any unauthorized use of the
+        Service, or any function of the Service or failure of the Service to function; (iii) the provision of or failure to provide any
+        service though the Service; (iv) errors or inaccuracies in the User Content, Provider Content, Technology, or any advertising or
+        other information, software, products, services, and related graphics used, viewed, or obtained through the Service; or (v) any
+        property loss including damage to your computer or computer system caused by viruses or other harmful components encountered during
+        or on account of access to or use of this Service or any third-party website linked to this Service. These limitations of liability
+        shall apply regardless of the form of action, whether based in contract, negligence, strict liability, other tort, or otherwise,
+        and even if Provider has been advised of the possibility of any particular damages. To the extent you allege or assert any damages
+        associated with the Service which are not excluded
+        \n
+
+</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="settings">Settings</string>
+    <string name="account">Account</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_password">Change password</string>
+    <string name="change_language">Change language</string>
+    <string name="Select_language">Select language.... </string>
+    <string name="about">About</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms">Terms &amp; Conditions</string>
+    <string name="remember">Make sure you remember your password</string>
+    <string name="current_password">Your current password</string>
+    <string name="new_password">Your new password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="cancel">Cancel</string>
+    <string name="username">User name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="back">Back</string>
+    <string name="create">Create New Account</string>
+    <string name="choose">choose your account type</string>
+    <string name="herbalist">Herbalist Account</string>
+    <string name="user">User Account</string>
+    <string name="have_accepted">I have accepted the</string>
+    <string name="signup">Sign UP</string>
+    <string name="signin">Sign In</string>
+    <string name="welcome">welcome</string>
+    <string name="forget">Forgot Password?</string>
+    <string name="add_plant">Add Plant</string>
+    <string name="confirm_plant">Confirm Plants</string>
+    <string name="logout">Log Out</string>
+    <string name="chats">Chats</string>
+    <string name="herbalists">Herbalists</string>
+    <string name="message">Message</string>
+    <string name="fruit">Fruit</string>
+    <string name="leaf">Leaf</string>
+    <string name="flower">Flower</string>
+    <string name="trees">Trees</string>
+    <string name="seeds">Seeds</string>
+    <string name="roots">Roots</string>
+    <string name="plant_name">Plant Name</string>
+    <string name="symptoms">Symptoms treated by the plant</string>
+    <string name="select_symptoms">Select Symptoms</string>
+    <string name="description">Description</string>
+    <string name="parts">Parts of plant that use</string>
+    <string name="did">Did you know</string>
+    <string name="add">Add</string>
+    <string name="update_plant">Update Plant</string>
+    <string name="update">Update</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+    <string name="delete">delete</string>
+    <string name="fill">Fill your email and we will sent you  a link to change your password</string>
+    <string name="get_new">Get Your New Password</string>
+    <string name="Dont_have">Don\'t have an account\?</string>
+    <string name="register">Register now</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="search_name">Search for name</string>
+    <string name="search_symptoms">search for symptoms</string>
+    <string name="clear_all">Clear All</string>
+    <string name="save">Save</string>
+    <string name="plant_exists">The plant already exists. Do you want to modify the data?</string>
+    <string name="admin_confirmation">"The plant has been add but it need for the admin confirmation…"</string>
+    <string name="delete_plant">Do you want to delete the plant?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_gallery">Choose from gallery</string>
+
+    <string name="Empty_plant_name">Empty plant name</string>
+    <string name="Empty_symptoms">Empty symptoms</string>
+    <string name="Empty_location">Empty location</string>
+
+    <string name="Empty_description">Empty description</string>
+    <string name="Empty_information">Empty information</string>
+
+    <string name="username_required">username required!</string>
+    <string name="email_required">email required!</string>
+    <string name="valid_email">Enter valid email!</string>
+    <string name="Empty_password">Empty password</string>
+    <string name="signup_failed">sign up failed</string>
+    <string name="signin_failed">sign in failed</string>
+    <string name="Fill_information">Fill in all information</string>
+    <string name="Check_email">Check your email to reset password</string>
+    <string name="Try_Again">Try Again ! Something wrong happened!</string>
+    <string name="Error_password">Error password, not updated</string>
+    <string name="Password_mismatching">Password mismatching</string>
+    <string name="Password_incorrect">Current Password incorrect</string>
+    <string name="Password_updated">Password updated successfully</string>
+    <string name="Profile_updated">Profile updated successfully</string>
+    <string name="plant_added">plant added successfully</string>
+    <string name="Plant_deleted">Plant deleted successfully</string>
+    <string name="Plant_updated">Plant updated successfully</string>
+    <string name="all_fields">Please enter all fields.</string>
+    <string name="Sending_image">Sending Image</string>
+    <string name="Please_wait">Please wait…</string>
+    <string name="gallery">Gallery</string>
+    <string name="Select_image">Select Image</string>
+    <string name="write_message">write your message first…</string>
+    <string name="Image_successfully">Image Sent Successfully…</string>
+    <string name="error">Error</string>
+
+
+    <string name="fatigue">Fatigue</string>
+    <string name="fever">Fever</string>
+    <string name="stomachache">Stomachache</string>
+    <string name="headache">Headache</string>
+    <string name="nausea">Nausea</string>
+    <string name="skin">Skin irritation</string>
+    <string name="indigestion">Indigestion</string>
+    <string name="infections">Infections and ulcers</string>
+    <string name="diarrhea">Diarrhea</string>
+    <string name="constipation">Constipation</string>
+    <string name="colds">Colds</string>
+
+    <string name="levant">Levant</string>
+    <string name="Arab_Maghreb">The Arab Maghreb</string>
+    <string name="Arabian_Peninsula">The Arabian Peninsula</string>
+    <string name="Latin_america">Latin america</string>
+    <string name="Australia">Australia</string>
+    <string name="Europe">Europe</string>
+    <string name="Africa">Africa</string>
+    <string name="Middle_Atlantic">Middle Atlantic</string>
+    <string name="Western_Indian">Western Indian Ocean</string>
+    <string name="West_Asia">West Asia</string>
+    <string name="Pacific">Pacific</string>
+    <string name="North_Amarica">North Amarica</string>
+    <string name="South_America">South America</string>
+    <string name="Select_location">Select location</string>
+    <string name="Place_origin">Place of origin</string>
+    <string name="approved">Plant has been approved by the admin</string>
+    <string name="disapproval">Plant has been disapproval by the admin</string>
+    <string name="send_email">Email has been sent to herbalist</string>
+    <string name="searchname">There are no herb with that name or the name typed wrong, try again or you can find another herb in herb list.</string>
+    <string name="searchsymptoms">There is no information currently  available about herbal treatment for these symptoms, please, ask our herbalists by using send a message</string>
+    <string name="searchherbalist">There are no herbalist with that name or the name typed wrongly, try again or you can find another herbalist in herbalists list</string>
+
+
+
+</resources>

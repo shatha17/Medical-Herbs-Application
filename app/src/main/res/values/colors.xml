@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7a49a5</color>
+
+    <color name="PrimaryShade_2">#6D4194</color>
+    <color name="PrimaryShade_3">#613A84</color>
+    <color name="PrimaryShade_4">#553373</color>
+    <color name="PrimaryShade_5">#492B63</color>
+    <color name="PrimaryShade_6">#3C2452</color>
+    <color name="PrimaryShade_7">#301D42</color>
+    <color name="PrimaryShade_8">#241531</color>
+    <color name="PrimaryShade_9">#180E21</color>
+    <color name="PrimaryShade_10">#0C0710</color>
+
+    <color name="PrimaryTint_1">#875BAE</color>
+    <color name="PrimaryTint_2">#946DB7</color>
+    <color name="PrimaryTint_3">#A17FC0</color>
+    <color name="PrimaryTint_4">#AF91C9</color>
+    <color name="PrimaryTint_5">#BCA4D2</color>
+    <color name="PrimaryTint_6">#C9B6DB</color>
+    <color name="PrimaryTint_7">#D7C8E4</color>
+    <color name="PrimaryTint_8">#E4DAED</color>
+    <color name="PrimaryTint_9">#F1ECF6</color>
+
+    <color name="colorSecondary">#4974a5</color>
+
+    <color name="SecondaryShade_2">#416894</color>
+    <color name="SecondaryShade_3">#3A5C84</color>
+    <color name="SecondaryShade_4">#335173</color>
+    <color name="SecondaryShade_5">#2B4563</color>
+    <color name="SecondaryShade_6">#243A52</color>
+    <color name="SecondaryShade_7">#1D2E42</color>
+    <color name="SecondaryShade_8">#152231</color>
+    <color name="SecondaryShade_9">#0E1721</color>
+    <color name="SecondaryShade_10">#070B10</color>
+
+    <color name="SecondaryTint_1">#5B81AE</color>
+    <color name="SecondaryTint_2">#6D8FB7</color>
+    <color name="SecondaryTint_3">#7F9DC0</color>
+    <color name="SecondaryTint_4">#91ABC9</color>
+    <color name="SecondaryTint_5">#A4B9D2</color>
+    <color name="SecondaryTint_6">#B6C7DB</color>
+    <color name="SecondaryTint_7">#C8D5E4</color>
+    <color name="SecondaryTint_8">#DAE3ED</color>
+    <color name="SecondaryTint_9">#ECF1F6</color>
+
+
+
+</resources>
